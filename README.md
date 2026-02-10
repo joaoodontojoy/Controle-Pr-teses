@@ -1,2 +1,2 @@
-# Controle-Pr-teses
+# Controle-Proteses
 Controle de próteses
